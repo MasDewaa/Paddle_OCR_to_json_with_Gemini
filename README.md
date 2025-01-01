@@ -8,8 +8,6 @@
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The **Receipt Parser Project** is a Python-based application designed to extract information from receipt images and convert it into structured JSON format. It uses Optical Character Recognition (OCR) for text extraction and integrates with Google's Generative AI to parse and structure the extracted text.
